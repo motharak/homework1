@@ -80,3 +80,15 @@ body{
     height: 5px;
     background-color: rgb(0, 255, 170);
 }
+.second{
+    display: flex;
+    background-color: #f7c2c2;
+    margin: -10px;
+    padding: 0;
+    border:0;
+    height: 30vh;
+}
+.col-4{
+    width: 25%;
+    margin-top: 5vh;
+}
